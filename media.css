@@ -1,0 +1,56 @@
+@media screen and (max-width: 767px){
+    .user span{
+        display: none !important;
+    }
+    .hero-text h1{
+        font-size: 2rem !important;
+    }
+    .hero-text p{
+        font-size: 18px !important;
+    }
+    .hero-area{
+        background-position: center center !important;
+    }
+    .hero-text{
+        margin-top: 20px !important;
+    }
+    .slider-section .main-slider-box-one{
+        display: none !important;
+    }
+    .box{
+        padding-bottom: 20px !important;
+    }
+    .section-mobile-app{
+        background: #4855fe !important;
+        padding: 75px 0 !important;
+    }
+    .img-boxtwo .box-img{
+        padding-top: 10px !important;
+    }
+    .section-about{
+        margin-top: 40px !important;
+    }
+    .section-about .img-box .box-img{
+        width: 100% !important;
+    }
+    .section-about .arrow-box .arrow-btn{
+        margin-left: 155px !important;
+    }
+    .section-latest-news .arrow-btn{
+        margin-left: 160px !important;
+    }
+    .section-testimonial .detail-box .arrow-btn-one{
+        margin-left: 160px !important;
+    }
+    .footer-bg{
+        padding-top: 0 !important;
+        margin-top: 50px !important;
+    }
+    .info-links ul{
+        display: flex !important;
+        flex-direction: column !important;
+        align-items: center !important;
+    }
+}
+
+
